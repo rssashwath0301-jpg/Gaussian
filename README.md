@@ -48,6 +48,7 @@ for i in range(n):
 ```
 
 ## Output:
+1.
 <img width="827" height="448" alt="image" src="https://github.com/user-attachments/assets/600fb4a5-2dca-492f-a98c-e694b355beff" />
 
 
